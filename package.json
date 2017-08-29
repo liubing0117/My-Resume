@@ -1,0 +1,25 @@
+{
+  "name": "bing0117-webpack",
+  "version": "1.0.0",
+  "description": "this is my first webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liubing0117/My-Resume.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "bing0117",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liubing0117/My-Resume/issues"
+  },
+  "homepage": "https://github.com/liubing0117/My-Resume#readme",
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  }
+}
